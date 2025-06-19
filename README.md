@@ -33,7 +33,7 @@ The deployed version of this project has been shared via Internshala.**
 cd backend
 npm install
 Create a config.env file inside backend/ with the following content:
-    DB=<your MongoDB connection URI>
+    DB= your MongoDB connection URI 
     PORT=8000
 
 ### 3. Then start the backend server:
