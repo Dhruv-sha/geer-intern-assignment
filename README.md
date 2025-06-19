@@ -20,6 +20,8 @@ geer-intern-assignment/
 
 **🌐 Deployed Version
 The deployed version of this project has been shared via Internshala.**
+**Below is the link to the deployed version :
+    https://geer-frontend.vercel.app/
 
 
 ## 🚀 How to Run the Project Locally
